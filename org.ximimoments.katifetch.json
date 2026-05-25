@@ -27,12 +27,13 @@
             "name" : "katifetch",
             "builddir" : true,
             "buildsystem" : "meson",
-            "sources" : [
-                {
-                    "type" : "git",
-                    "url" : "file:///home/amy/Projects"
-                }
-            ],
+"sources" : [
+    {
+        "type" : "git",
+        "url" : "https://github.com/ximimoments/org.ximimoments.katifetch.git",
+        "branch" : "main"
+    }
+],
             "config-opts" : [
                 "--libdir=lib"
             ]
