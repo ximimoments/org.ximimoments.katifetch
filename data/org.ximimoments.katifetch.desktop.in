@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Katifetch
+Exec=katifetch
+Icon=org.ximimoments.katifetch
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true

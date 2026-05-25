@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="katifetch">
+	<schema id="org.ximimoments.katifetch" path="/org/ximimoments/katifetch/">
+	</schema>
+</schemalist>

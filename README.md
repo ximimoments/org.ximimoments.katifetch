@@ -1,1 +1,3 @@
-# org.ximimoments.katifetch
+# katifetch
+
+A description of this project.
